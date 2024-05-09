@@ -1,4 +1,3 @@
-import 'package:fibonacci_flutter/main.dart';
 import 'package:fibonacci_flutter/presentation/pages/fibonacci_page.dart';
 import 'package:fibonacci_flutter/utils/scolling.dart';
 import 'package:flutter/material.dart';
